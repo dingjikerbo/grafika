@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_texture_from_camera.xml",
-        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_texture_from_camera.xml"
-    },
-    {
         "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_main.xml"
     },
@@ -12,44 +8,48 @@
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_gles_info.xml"
     },
     {
-        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/work_dialog.xml",
-        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/work_dialog.xml"
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_hardware_scaler.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_hardware_scaler.xml"
     },
     {
-        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_codec_open.xml",
-        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_codec_open.xml"
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_soft_input_surface.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_soft_input_surface.xml"
     },
     {
         "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_hardware_scaler.xml",
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_hardware_scaler.xml"
     },
     {
-        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_soft_input_surface.xml",
-        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_soft_input_surface.xml"
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_continuous_capture.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_continuous_capture.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_texture_from_camera.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_texture_from_camera.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_texture_view_gl.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_texture_view_gl.xml"
     },
     {
         "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_texture_view_canvas.xml",
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_texture_view_canvas.xml"
     },
     {
-        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_double_decode.xml",
-        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_double_decode.xml"
-    },
-    {
-        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_camera_capture.xml",
-        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_camera_capture.xml"
-    },
-    {
-        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_play_movie_surface.xml",
-        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_play_movie_surface.xml"
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_camera_capture.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_camera_capture.xml"
     },
     {
         "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/about_dialog.xml",
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/about_dialog.xml"
     },
     {
-        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_texture_upload.xml",
-        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_texture_upload.xml"
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_codec_open.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_codec_open.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_texture_upload.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_texture_upload.xml"
     },
     {
         "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_play_movie.xml",
@@ -64,6 +64,10 @@
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_multi_surface_test.xml"
     },
     {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/about_dialog.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/about_dialog.xml"
+    },
+    {
         "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_read_pixels.xml",
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_read_pixels.xml"
     },
@@ -76,6 +80,82 @@
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_color_bar.xml"
     },
     {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_chor_test.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_chor_test.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_record_fbo.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_record_fbo.xml"
+    },
+    {
+        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_texture_from_camera.xml",
+        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_texture_from_camera.xml"
+    },
+    {
+        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/work_dialog.xml",
+        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/work_dialog.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_texture_view_canvas.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_texture_view_canvas.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/work_dialog.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/work_dialog.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_codec_open.xml",
+        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_codec_open.xml"
+    },
+    {
+        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_soft_input_surface.xml",
+        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_soft_input_surface.xml"
+    },
+    {
+        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_double_decode.xml",
+        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_double_decode.xml"
+    },
+    {
+        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_camera_capture.xml",
+        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_camera_capture.xml"
+    },
+    {
+        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_play_movie_surface.xml",
+        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_play_movie_surface.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_scheduled_swap.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_scheduled_swap.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_double_decode.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_double_decode.xml"
+    },
+    {
+        "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_texture_upload.xml",
+        "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_texture_upload.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_multi_surface_test.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_multi_surface_test.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_play_movie.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_play_movie.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_play_movie_surface.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_play_movie_surface.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_gles_info.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_gles_info.xml"
+    },
+    {
         "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_chor_test.xml",
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_chor_test.xml"
     },
@@ -84,7 +164,15 @@
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_record_fbo.xml"
     },
     {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_color_bar.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_color_bar.xml"
+    },
+    {
         "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_continuous_capture.xml",
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/layout/activity_continuous_capture.xml"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/layout/activity_read_pixels.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/layout/activity_read_pixels.xml"
     }
 ]

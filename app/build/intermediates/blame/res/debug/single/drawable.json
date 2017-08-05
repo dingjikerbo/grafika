@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/drawable/back.xml",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/drawable/back.xml"
+    },
+    {
         "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/drawable/back.xml",
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/drawable/back.xml"
     }

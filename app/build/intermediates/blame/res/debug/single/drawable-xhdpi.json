@@ -2,5 +2,9 @@
     {
         "merged": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
         "source": "/Users/dingjikerbo/Android/dingjikerbo/grafika/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liwentian/dingjikerbo/grafika/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/liwentian/dingjikerbo/grafika/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     }
 ]

@@ -133,7 +133,8 @@ public final class R {
         public static final int activity_texture_upload=0x7f030012;
         public static final int activity_texture_view_canvas=0x7f030013;
         public static final int activity_texture_view_gl=0x7f030014;
-        public static final int work_dialog=0x7f030015;
+        public static final int test=0x7f030015;
+        public static final int work_dialog=0x7f030016;
     }
     public static final class menu {
         public static final int main=0x7f080000;
